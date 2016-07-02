@@ -1,0 +1,23 @@
+{
+  "name": "node-onesky-platform",
+  "version": "1.0.0",
+  "description": "OneSky Platform API for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasegar/node-onesky-platform.git"
+  },
+  "keywords": [
+    "onesky",
+    "nodejs"
+  ],
+  "author": "Rajasegar Chandran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajasegar/node-onesky-platform/issues"
+  },
+  "homepage": "https://github.com/rajasegar/node-onesky-platform#readme"
+}
